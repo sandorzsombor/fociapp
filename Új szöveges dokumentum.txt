@@ -1,0 +1,3 @@
+cd Desktop\fociapp
+
+python -m streamlit run app.py
